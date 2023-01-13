@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=kimwonjin97&show_icons=true&theme=onedark">
+<img align="left" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kimwonjin97&show_icons=true&theme=onedark">
 <!-- <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimwonjin97&layout=compact&theme=onedark"> -->
 
 <a href="https://opgc.me/#/users/kimwonjin97" target="_blank"><img src="https://api.opgc.me/githubs/users/kimwonjin97/tag/?theme=basic" /></a>
